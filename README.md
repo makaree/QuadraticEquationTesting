@@ -13,7 +13,10 @@ This project is for testing the quadratic equation dll file and finding as many 
 4. Once the command is executed check the file named 'FileName.txt' in same location.
 5. Check the text results here.
 6. Test summary can be found if scrolled in the end of the .txt file.
+Note: 
+1. The given quadratic.dll is unstable so sometime might fail test cases. Running the ATF again might give different results.
+2. Set points that have bugs are commented out.
 
 ## Contact
-If there are any questions feel free to contact at manz.karki@gmail.com
+If there are any questions feel free to contact at manz.karki@gmail.com.
 
